@@ -15,7 +15,7 @@
  */
 
 /** PosCmd Server model ID. */
-#define POS_CMD_SERVER_MODEL_ID (0x0005)
+#define POS_CMD_SERVER_MODEL_ID (0x0009)
 
 /** Forward declaration. */
 typedef struct __pos_cmd_server pos_cmd_server_t;

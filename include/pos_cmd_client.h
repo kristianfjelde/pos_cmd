@@ -21,7 +21,7 @@
 #endif
 
 /** PosCmd Client model ID. */
-#define POS_CMD_CLIENT_MODEL_ID (0x0004)
+#define POS_CMD_CLIENT_MODEL_ID (0x0008)
 
 /** PosCmd status codes. */
 typedef enum
